@@ -1,0 +1,45 @@
+/* declare button id= mgreenbutton */
+
+#mgbutton{
+  border:1px solid #333;
+  background-color:
+  #e4fc74 ;
+  width:fit-content;
+  padding:auto;
+  border-radius:4px;
+  transition: box-shadow .3s;
+
+}
+
+#mgbutton:hover{
+    box-shadow:6px 7px;
+}
+/* to align mggreenbutton vertically(column) use align-items and 
+use justify-content to align horizontally (row)*/
+#mbbutton{
+  border:1px solid #333;
+  background-color:
+  cyan  ;
+  width:fit-content;
+  padding:auto;
+  border-radius:4px;
+  transition: box-shadow .3s;
+
+}
+#mbbutton:hover {
+  box-shadow: 6px 7px;  
+}
+
+#mrbutton{
+  border:1px solid #333;
+  background-color:
+  #fc6c85 ;
+  width:fit-content;
+  padding:auto;
+  border-radius:4px;
+  transition: box-shadow .3s;
+
+}
+ #mrbutton:hover{
+  box-shadow:6px 7px;
+ }
